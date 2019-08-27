@@ -12,7 +12,7 @@ body {
 
 .menu {
     background: #252525;
-    padding: 20px 10px 0;
+    padding: 20px 10px 0 0;
     border-bottom: 5px solid #c17139;
 }
 
@@ -163,7 +163,7 @@ body {
     font-style: italic;
     text-align: center;
     margin: 20px auto;
-    max-width: 560px;
+    max-width: 460px;
 }
 
 @media (min-width: 740px) and (max-width: 980px) {
@@ -185,7 +185,7 @@ body {
     }
     .sobre > p {
         font-size: 1.10em;
-        max-width: 400px;
+        max-width: 380px;
     }
  }
 
