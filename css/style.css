@@ -68,6 +68,9 @@ body {
         float: none;
         margin: 0 auto;
     }
+    .menu-nav ul {
+        width: 350px;
+    }
 }
 
 
@@ -185,7 +188,7 @@ body {
     }
     .sobre > p {
         font-size: 1.10em;
-        max-width: 380px;
+        max-width: 300px;
     }
  }
 
